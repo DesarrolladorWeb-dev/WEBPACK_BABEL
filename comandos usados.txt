@@ -1,0 +1,18 @@
+
+D:\ACCION\JAVASCRIPT\CLASE\BABEL Y WEPACK\config-babel>npm init -y
+
+
+
+D:\ACCION\JAVASCRIPT\CLASE\BABEL Y WEPACK\config-babel> npm install --save-dev webpack-cli webpack
+
+D:\ACCION\JAVASCRIPT\CLASE\BABEL Y WEPACK\config-babel>npm run build
+
+npm install --save-dev rimraf
+
+para que todos los navegadores puedan ejecutar el proyecto
+
+npm install --save-dev @babel/core @babel/preset-env babel-loader
+
+
+//CUANDO EL SOPORTE ES MAS CON UN NAVEGADOR MAS ANTIGUO EL BABEL PESARA MAS
+npm install --save-dev @babel/polyfill

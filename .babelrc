@@ -1,0 +1,3 @@
+{
+    "presets": ["@babel/preset-env"] //libreria de como tiene que hacer las configuraciones
+}
